@@ -1,0 +1,35 @@
+# Xcode
+.DS_Store
+build/
+DerivedData/
+*.xcuserstate
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+# Swift / Xcode
+.build/
+.swiftpm/
+Package.resolved
+
+# Xcode generated files
+*.moved-aside
+*.xccheckout
+*.xcscmblueprint
+
+# User-specific Xcode settings
+xcuserdata/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Temporary files
+*.tmp
+*.temp
+

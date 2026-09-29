@@ -26,6 +26,11 @@
 			path = Extensions;
 			sourceTree = "<group>";
 		};
+		33BF5CC0306B6141009C55B2 /* Features */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Features;
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +45,7 @@
 		000000000000000000000001 = {
 			isa = PBXGroup;
 			children = (
+				33BF5CC0306B6141009C55B2 /* Features */,
 				000000000000000000000010 /* BilliardO */,
 				000000000000000000000020 /* Products */,
 				33417489306B5EE90066EBCB /* Extensions */,
@@ -72,6 +78,7 @@
 				000000000000000000000010 /* BilliardO */,
 				33417487306B5ECF0066EBCB /* Services */,
 				33417489306B5EE90066EBCB /* Extensions */,
+				33BF5CC0306B6141009C55B2 /* Features */,
 			);
 			name = BilliardO;
 			productName = MyApp;
